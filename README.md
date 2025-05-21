@@ -30,7 +30,7 @@ pip install adafruit-circuitpython-bme280
 4. `while`ループで温度・湿度・気圧を1秒ごとに取得し、表示。
 5. `Ctrl + C`でループを中断し、終了メッセージを表示。
 
-## 📄 ソースコード（再掲）
+##  ソースコード（再掲）
 
 ```python
 import time
